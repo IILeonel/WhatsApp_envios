@@ -1,6 +1,6 @@
 # Envios automatico de mensagens via WhatsApp
 
-Script Python que possibilita o envio de mesagens via WhatsApp Web com o numero, nome é a mensagem desejada. Pode ser utilizado para contatos em massa, seja na area de Publicidade ou até mesmo Recursos Humanos. O Script lê os dados de uma planilha Excel que o usuario deverá passar os dados antes (Nome, numero e mensagem).
+Script Python que possibilita o envio de mensagens via WhatsApp Web com o numero, nome é a mensagem desejada. Pode ser utilizado para contatos em massa, seja na area de Publicidade ou até mesmo Recursos Humanos. O Script lê os dados de uma planilha Excel que o usuario deverá passar os dados antes (Nome, numero e mensagem).
 
 # Detalhes
 * O Script envia mensagens para numeros salvos em sua agenda ou numeros não salvos.
