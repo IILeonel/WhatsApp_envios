@@ -5,7 +5,7 @@ Script Python que possibilita o envio de mensagens via WhatsApp Web com o numero
 # Detalhes
 * O Script envia mensagens para numeros salvos em sua agenda ou numeros não salvos.
 * O WhatsApp ja deve estar conectado via QR code antes de rodar o script.
-* Voce deverá passa o DDD em todos os numeros ao adicionalo na planilha Excel.
+* Voce deverá passar o DDD em todos os numeros ao adicionalo na planilha Excel.
 * A lib pyinstaller foi utilizada apenas para gerar um arquivo executavel.
 
 # Requesitos
